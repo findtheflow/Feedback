@@ -1,4 +1,14 @@
+# Are you interested in moving Flow forward? 
+Hi! We are the creators of Flow. As you may have noticed it is no longer under active development because we both joined Instana (http://instana.com). 
+
+We are looking for an organization or people who would like to keep this tool alive. Please get in touch with us if you are interested or have questions: contact@findtheflow.io.
+
+We would like to sincerely thank you and the thousands of other developers who gave Flow a try and gave us some invaluable feedback. 
+
+Yoann & Yiquan
+
 # Flow Feedback & Issues
+
 ## About Flow
 Flow is a tool to help developers better understand the structure and the behavior of their applications. 
 
